@@ -1,4 +1,4 @@
-def nuxhashd():
+def mata():
     from nuxhash.daemon import main
     main()
 
